@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋 -->
+<img src="./2022/0130/github_profile.gif">
 <!--
 **yeram-lim/yeram-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
