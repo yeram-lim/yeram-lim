@@ -3,6 +3,11 @@
     <img src="./2022/0130/github_profile.gif">
 </div>
 <div align="center">
+    <h2>💜GitHub Stats💜</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=yeram-lim&show_icons=true&theme=buefy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy">
+</div>
+<div align="center">
     <h2>🛠Tech Stack🛠</h2>
     <div align="center">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
