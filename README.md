@@ -2,11 +2,13 @@
 <div align="center">
     <img src="./2022/0130/github_profile.gif">
 </div>
+
 <div align="center">
     <h2>💜GitHub Stats💜</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=yeram-lim&show_icons=true&theme=buefy">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy">
 </div>
+
 <div align="center">
     <h2>🛠Tech Stack🛠</h2>
     <div align="center">
@@ -22,6 +24,7 @@
         <br>
     </div>
 </div>
+
 <div align="center">
     <h2>📚Learning📚</h2>
     <div align="center">
@@ -33,6 +36,7 @@
         <br>
     </div>
 <div>
+
 <div align="center">
     <h2>📞Contact📞</h2>
     <div align="center">
