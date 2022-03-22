@@ -4,18 +4,13 @@
 </div>
 
 <div align="center">
-    <h3>💜GitHub Stats💜</h2>
+    <h2>💜GitHub Stats💜</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy" width="350" height="200">
     <img src="https://github-readme-stats.vercel.app/api?username=yeram-lim&show_icons=true&theme=buefy" width="350" height="200">
 </div>
 
-<!-- 
-[![moosongsong's github stats](https://github-readme-stats.vercel.app/api?username=moosongsong)](https://github.com/moosongsong)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moosongsong&layout=compact)](https://github.com/moosongsong)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=songe08)](https://solved.ac/profile/songe08) -->
-
 <div align="center">
-    <h4>🛠Tech Stack🛠</h2>
+    <h3>🛠Tech Stack🛠</h2>
     <div align="center">
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -31,7 +26,7 @@
 </div>
 
 <div align="center">
-    <h4>📚Learning📚</h2>
+    <h3>📚Learning📚</h2>
     <div align="center">
         <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> 
         <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
@@ -44,7 +39,7 @@
 <div>
 
 <div align="center">
-    <h4>📞Contact📞</h2>
+    <h3>📞Contact📞</h2>
     <div align="center">
         <a href="https://itwithruilan.tistory.com/" target="_blank">
             <img src="https://img.shields.io/badge/TECH BLOG-000000?style=flat-square&logo=Bloglovin&logoColor=white"> 
