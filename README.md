@@ -5,7 +5,7 @@
 
 <div align="center">
     <h2>💜GitHub Stats💜</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy" width="350" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy" width="300" height="150">
     <img src="https://github-readme-stats.vercel.app/api?username=yeram-lim&show_icons=true&theme=buefy" width="350" height="200">
 </div>
 
