@@ -2,7 +2,7 @@
 <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 <style>
 #particles-js {
-    background-color: #F4B9E4;
+    background-color: #ebcce3;
     height: 860px;
     width: 100%;
 }
@@ -13,7 +13,7 @@
 } */
 #main-typing {
     position: absolute;
-    font-size: 60px;
+    font-size: 50px;
     font-family: 'B612', sans-serif;
     font-weight: 900;
     width: 90vw;
@@ -23,7 +23,7 @@
 }
 #sub-typing {
     position: absolute;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'B612', sans-serif;
     font-weight: 700;
     width: 90vw;
@@ -51,6 +51,7 @@ particlesJS("particles-js", {
         },
         "color": {
             "value": "#ffffff"
+            // "value": "#f3cbe8"
         },
         "shape": {
             "type": "circle",
@@ -63,7 +64,7 @@ particlesJS("particles-js", {
             "nb_sides": 3
         },
         "opacity": {
-            "value": 0.3,
+            "value": 0.9,
             "random": false,
             "anim": {
                 "enable": false,
@@ -73,7 +74,7 @@ particlesJS("particles-js", {
             }
         },
         "size": {
-            "value": 3,
+            "value": 4,
             "anim": {
                 "enable": false,
                 "speed": 20,
@@ -85,8 +86,8 @@ particlesJS("particles-js", {
             "enable": true,
             "distance": 150,
             "color": "#ffffff",
-            "opacity": 0.4,
-            "width": 1
+            "opacity": 0.8,
+            "width": 2
         },
         "move": {
             "enable": true,
@@ -113,36 +114,30 @@ const subContent = new Typewriter('#sub-typing', {
 });
 
 mainContent
-    .typeString("Hello There :)")
-    .pauseFor(1500)
+    .typeString("Hello! I'm Lim-Yeram :)")
+    .pauseFor(1000)
     .deleteAll()
-    .typeString('I am Lim-Yeram.')
-    .pauseFor(2300)
-    .deleteAll()
-    // .deleteChars(15)
     .typeString('I am a Back-End Developer.')
     .pauseFor(2300)
     .deleteAll()
-    .typeString('Check out my work at github.com/lim-yeram')
-    .pauseFor(700)
+    .typeString('Check out my work at here!')
+    .pauseFor(1600)
     .deleteAll()
     .typeString('Thank you for visiting.')
     .pauseFor(1500)
     .deleteAll()
+    // .deleteChars(15)
     .start();
 
 subContent
-    .typeString("Nice to meet you!")
-    .pauseFor(1000)
-    .deleteAll()
     .typeString('Welcome to my workspace!')
-    .pauseFor(500)
+    .pauseFor(800)
     .deleteAll()
     .typeString('Currently learning Spring-Boot.')
     .pauseFor(1200)
     .deleteAll()
-    .typeString('Also you can come my blog.')
-    .pauseFor(3500)
+    .typeString('Also you can come to my blog.')
+    .pauseFor(1150)
     .deleteAll()
     .typeString('Contact to e-mail please.')
     .pauseFor(1000)
