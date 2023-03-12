@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div align="center">   
-    <img src="https://user-images.githubusercontent.com/77733145/159609957-0721ad3a-2adf-466b-975e-f69e889d63f8.gif" width="700" height="300"> 
+    <img src="https://user-images.githubusercontent.com/77733145/224557891-82b07c39-22de-4962-b2b2-b71350566843.gif" width="700" height="300"> 
 </div>
 
 <<<<<<< Updated upstream
@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
