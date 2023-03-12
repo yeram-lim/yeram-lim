@@ -1,9 +1,8 @@
 <!-- ### Hi there 👋 -->
 <div align="center">   
-    <img src="https://user-images.githubusercontent.com/77733145/224557891-82b07c39-22de-4962-b2b2-b71350566843.gif" width="700" height="300"> 
+    <img src="https://user-images.githubusercontent.com/77733145/224557891-82b07c39-22de-4962-b2b2-b71350566843.gif" width="700" height="400"> 
 </div>
 
-<<<<<<< Updated upstream
 <div align="center">
     <h2>💜GitHub Stats💜</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy" width="350" height="200">
