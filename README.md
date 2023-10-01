@@ -6,13 +6,13 @@
     <h2>💜Tech Stack💜</h2>
     <h3>🛠FrontEnd🛠</h3>
     <div align="center">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <br>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"> 
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"> 
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"> 
+        <br>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <br>
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
@@ -26,12 +26,6 @@
     </div>
 </div>
 
-
-<div align="center">
-    <h2>💜GitHub Stats💜</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeram-lim&layout=compact&theme=buefy" width="350" height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=yeram-lim&show_icons=true&theme=buefy" width="400" height="200">
-</div>
 
 <div align="center">
     <h3>📞Contact📞</h3>
